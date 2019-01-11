@@ -1,0 +1,64 @@
+/*aca empiesa css de navbar descargado desde  https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_theme_company_complete_animation*/
+.navbar-default .navbar-toggle {
+      border-color: transparent;
+      color: #fff !important;
+  }
+.navbar {      
+      background-color: #5858FA;
+      z-index: 9999;
+      font-size: 14px !important;
+      line-height: 1.42857143 !important;
+      letter-spacing: 4px;
+      border-radius: 0;
+      font-family: Montserrat, sans-serif;
+  }
+  .navbar li a, .navbar .navbar-brand {
+      color: #fff !important;
+  }
+  .navbar-nav li a:hover, .navbar-nav li.active a {
+      color: #5858FA !important;
+      background-color: #fff !important;
+  }
+  .navbar-default .navbar-toggle {
+      border-color: transparent;
+      color: #fff !important;
+  }
+/*aca termina css de navbar descargado desde  https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_theme_company_complete_animation*/
+/*css para dar color a todos los encabezados de la pagina de inicio index*/
+
+
+/*estilo de las cuadros de texto del slider perteneciente a servicios*/
+#caja2{ 
+    padding:1%;
+    border-color: #5858FA;
+    border-radius: 6px;
+    color: #5858FA;    
+}
+/*estilo de las cuadros de texto del slider perteneciente a conocenos*/
+#serv_cajas{
+
+	color:black;
+	height: 500px;
+	padding:5%;
+	border: 0px solid #000000
+	background-color: #0080FF;
+}
+#serv_cajas:hover{
+	padding:5%;
+	border:solid 1PX;
+	height: 500px;
+	border-radius: 6px;
+	border-color: #5858FA;
+	color: #5858FA;
+}
+
+/*estilo para el pie de pagina*/
+#footer{
+	background-color: black;
+	color: #ffffff;
+	padding: 12px;
+}
+
+
+
+
